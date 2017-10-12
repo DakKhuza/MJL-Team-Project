@@ -10,8 +10,8 @@ Search page for displaying listings and prices, search by location, price and av
 Page for sellers to list their place for stay
 Admin page for monitoring sellers / users and viewing income / other admin stuff
 
-ERD           STATUS: IN PROGRESS
+ERD           STATUS: DONE
 
-CASE DIAGRAM  STATUS: NOT STARTED
+CASE DIAGRAM  STATUS: DONE
 
 WIREFRAME     STATUS: NOT STARTED
